@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957742934687",
+    "firebase_url": "https://griho-sheba-default-rtdb.firebaseio.com",
+    "project_id": "griho-sheba",
+    "storage_bucket": "griho-sheba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957742934687:android:4d351e1c4b4027f5df50aa",
+        "android_client_info": {
+          "package_name": "com.brain.gri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957742934687-279fk311a0nq3i6rrqv2b9o011ppif6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJeyw3FbA_6VzaOnHBN7NKtEcK4C6CIQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957742934687-279fk311a0nq3i6rrqv2b9o011ppif6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957742934687-4r2qh4t43ts924eg4cvcbs41cstgr57s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterGrihoSheba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
